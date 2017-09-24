@@ -70,7 +70,7 @@ upload.addEventListener('change', function(){
 
 如果使用canvas对图片进行压缩，具有一定的兼容性问题。由于在ios系统中如果处理的图片超过2M则会自动中断，简单查可一下大神介绍说可以分段上传。这里不详细介绍，感兴趣的同学可以参考这个[https://github.com/stomita/ios-imagefile-megapixel](https://github.com/stomita/ios-imagefile-megapixel)。
 
-### 基于canvas的要说方法
+### 基于canvas的上传方法
 
 参考链接：
 
